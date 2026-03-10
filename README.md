@@ -16,7 +16,7 @@
 ## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,git,github,figma,postman" />
+  <img style="width: 150px" "src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,git,github,figma,postman" />
 </p>
 
 ## Tools
@@ -31,7 +31,7 @@
   <a href="mailto:muradnuhzada@gmail.com">
     <img src="https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/senin-linkedin-linkin">
+  <a href="http://linkedin.com/in/murad-nuh-zada">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
