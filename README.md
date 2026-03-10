@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/Responsive_Web_Design-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
   <img src="https://img.shields.io/badge/shadcn%2Fui-111111?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_API-111111?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/UI%2FUX_Basics-111111?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/UI%2FUX-111111?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 ## Tools
