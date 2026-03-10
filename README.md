@@ -50,8 +50,6 @@
 
 <h2 align="center">GitHub Stats</h2>
 
-
-  
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuradNuh-zada&show_icons=true&theme=tokyonight&cache_seconds=1800)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuradNuh-zada&layout=compact&theme=tokyonight&cache_seconds=1800)
 
