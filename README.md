@@ -50,13 +50,10 @@
 
 <h2 align="center">GitHub Stats</h2>
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuradNuh-zada&show_icons=true&theme=tokyonight&cache_seconds=1800)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuradNuh-zada&layout=compact&theme=tokyonight&cache_seconds=1800)
+ ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuradNuh-zada&theme=tokyonight)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MuradNuh-zada&theme=tokyonight" />
-</p>
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuradNuh-zada&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuradNuh-zada&theme=tokyonight" />
-</p>
+![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuradNuh-zada&theme=tokyonight)
+
+![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MuradNuh-zada&theme=tokyonight)
