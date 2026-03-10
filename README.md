@@ -49,25 +49,36 @@
 </p>
 
 ## GitHub Stats
+<h2>GitHub Stats</h2>
+
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=seninusernamein&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MuradNuh-zada&show_icons=true&theme=tokyonight" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seninusernamein&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuradNuh-zada&layout=compact&theme=tokyonight" />
 </p>
 
-<!--
-**MuradNuh-zada/MuradNuh-zada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <img src="https://streak-stats.demolab.com?user=MuradNuh-zada&theme=tokyonight" />
+</p>
 
-Here are some ideas to get you started:
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuradNuh-zada&theme=tokyonight" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuradNuh-zada&theme=tokyonight" />
+</p>
+
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MuradNuh-zada&theme=tokyonight" />
+</p>
+
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuradNuh-zada&theme=tokyonight" />
+</p>
+
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MuradNuh-zada&theme=tokyonight&utcOffset=4" />
+</p>
