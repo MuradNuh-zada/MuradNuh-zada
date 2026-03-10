@@ -50,12 +50,11 @@
 
 <h2 align="center">GitHub Stats</h2>
 
-<h2 align="center">GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuradNuh-zada&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuradNuh-zada&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuradNuh-zada&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuradNuh-zada&layout=compact&theme=tokyonight&cache_seconds=1800)
+</div>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=MuradNuh-zada&theme=tokyonight" />
