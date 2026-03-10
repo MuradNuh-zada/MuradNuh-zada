@@ -7,13 +7,13 @@
 
 ---
 
-<h2 align="center">About Me</h2>
+## About Me
 
-<p align="center">
-  Front-End Developer passionate about building modern, responsive, and user-friendly web interfaces.
-  <br/>
-  I enjoy creating clean UI, learning new technologies, and improving my skills through real projects.
-</p>
+- 💻 Front-End Developer
+- 🎨 Interested in clean UI and responsive design
+- 🚀 Always learning and improving
+- 🌐 Passionate about modern web technologies
+- ⚡ Focused on building simple and user-friendly interfaces
 
 ## Tech Stack
 
