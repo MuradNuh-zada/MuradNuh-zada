@@ -23,7 +23,6 @@
 <img src="https://skillicons.dev/icons?i=bootstrap" width="70" />
   <img src="https://skillicons.dev/icons?i=tailwind" width="70" />
 <img src="https://skillicons.dev/icons?i=js" width="70" />
-<img src="https://skillicons.dev/icons?i=js" width="70" />
 <img src="https://skillicons.dev/icons?i=react" width="70" />
   <img src="https://skillicons.dev/icons?i=git" width="70" />
 <img src="https://skillicons.dev/icons?i=github" width="70" />
@@ -33,12 +32,16 @@
   <img src="https://skillicons.dev/icons?i=slack" width="70" />
   <img src="https://skillicons.dev/icons?i=discord" width="70" />
 </div>
+
 ## Tools
-- Slack
-- Trello
-- Figma
-- GitHub
-- Postman
+
+<img src="https://skillicons.dev/icons?i=github" width="70" />
+<img src="https://skillicons.dev/icons?i=figma" width="70" />
+  <img src="https://skillicons.dev/icons?i=postman" width="70" />
+  <img src="https://skillicons.dev/icons?i=trello" width="70" />
+  <img src="https://skillicons.dev/icons?i=slack" width="70" />
+  <img src="https://skillicons.dev/icons?i=discord" width="70" />
+  <img src="https://skillicons.dev/icons?i=trello" width="70" />
 
 ## Connect with Me
 <p>
