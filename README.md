@@ -29,15 +29,13 @@
 ## Tools
 
 <div display="flex">
-<img src="https://skillicons.dev/icons?i=github" width="70" />
-<img src="https://skillicons.dev/icons?i=git" width="70" />
-<img src="https://skillicons.dev/icons?i=figma" width="70" />
-  <img src="https://skillicons.dev/icons?i=postman" width="70" />
-  <img src="https://skillicons.dev/icons?i=discord" width="70" />
-  
-  ![Slack](https://img.shields.io/badge/Slack-111111?style=for-the-badge&logo=slack&logoColor=white)
-  
-![Trello](https://img.shields.io/badge/Trello-111111?style=for-the-badge&logo=trello&logoColor=white)
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+<img src="https://img.shields.io/badge/Slack-111111?style=for-the-badge&logo=slack&logoColor=white" />
+<img src="https://img.shields.io/badge/Trello-111111?style=for-the-badge&logo=trello&logoColor=white" />
 
 </div>
 
