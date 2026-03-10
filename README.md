@@ -24,10 +24,14 @@
 <img src="https://skillicons.dev/icons?i=js" width="70" />
 <img src="https://skillicons.dev/icons?i=react" width="70" />
 </div>
-<div>
+<p>
   <img src="https://img.shields.io/badge/Responsive_Web_Design-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
   <img src="https://img.shields.io/badge/shadcn%2Fui-111111?style=for-the-badge&logoColor=white" />
-</div>
+  <img src="https://img.shields.io/badge/REST_API-111111?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/UI%2FUX_Basics-111111?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Slack-111111?style=for-the-badge&logo=slack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trello-111111?style=for-the-badge&logo=trello&logoColor=white" />
+</p>
 
 ## Tools
 
