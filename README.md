@@ -1,4 +1,12 @@
-## Hi there 👋
+# Murad Nuhzada
+
+Front-End Developer passionate about building modern, responsive, and user-friendly web interfaces.
+
+## Skills
+HTML, CSS, SCSS, JavaScript, React, Bootstrap, Tailwind CSS, shadcn/ui, Git, GitHub, Postman, Figma, Trello
+
+## Contact
+muradnuhzada@gmail.com
 
 <!--
 **MuradNuh-zada/MuradNuh-zada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
