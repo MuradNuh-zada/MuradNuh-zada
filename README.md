@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Murad Nuhzada</h1>
-<h3 align="center">Front-End Developer</h3>
+<h1 >Hi, I'm Murad Nuhzada</h1>
+<h3 >Front-End Developer</h3>
 
 <p align="center">
   Building modern, responsive, and user-friendly web interfaces.
@@ -34,6 +34,11 @@
 <img src="https://skillicons.dev/icons?i=figma" width="70" />
   <img src="https://skillicons.dev/icons?i=postman" width="70" />
   <img src="https://skillicons.dev/icons?i=discord" width="70" />
+  
+  ![Slack](https://img.shields.io/badge/Slack-111111?style=for-the-badge&logo=slack&logoColor=white)
+  
+![Trello](https://img.shields.io/badge/Trello-111111?style=for-the-badge&logo=trello&logoColor=white)
+
 </div>
 
 ## Connect with Me
