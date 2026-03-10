@@ -18,6 +18,10 @@
 <p>
   <img width="150" "src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,git,github,figma,postman" />
 </p>
+<img src="https://skillicons.dev/icons?i=html" width="70" />
+<img src="https://skillicons.dev/icons?i=css" width="70" />
+<img src="https://skillicons.dev/icons?i=js" width="70" />
+<img src="https://skillicons.dev/icons?i=react" width="70" />
 
 ## Tools
 - Slack
