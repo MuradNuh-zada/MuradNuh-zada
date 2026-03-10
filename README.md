@@ -16,7 +16,7 @@
 ## Tech Stack
 
 <p>
-  <img style="width: 150px" "src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,git,github,figma,postman" />
+  <img width="150" "src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,git,github,figma,postman" />
 </p>
 
 ## Tools
