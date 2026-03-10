@@ -1,4 +1,4 @@
-<h1>Hi, I'm Murad Nuhzada</h1>
+<h1 align="center">Hi, I'm Murad Nuhzada</h1>
 
 <h3 align="center" >Front-End Developer</h3>
 <p align="center">
@@ -9,11 +9,8 @@
 
 ## About Me
 
-- 💻 Front-End Developer
-- 🎨 Interested in clean UI and responsive design
-- 🚀 Always learning and improving
-- 🌐 Passionate about modern web technologies
-- ⚡ Focused on building simple and user-friendly interfaces
+> Front-End Developer who enjoys building clean, responsive, and user-friendly interfaces.  
+> Passionate about modern web technologies, continuous learning, and creating simple but effective digital experiences.
 
 ## Tech Stack
 
