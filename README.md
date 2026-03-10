@@ -24,6 +24,10 @@
 <img src="https://skillicons.dev/icons?i=js" width="70" />
 <img src="https://skillicons.dev/icons?i=react" width="70" />
 </div>
+<div>
+  <img src="https://img.shields.io/badge/Responsive_Web_Design-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-111111?style=for-the-badge&logoColor=white" />
+</div>
 
 ## Tools
 
