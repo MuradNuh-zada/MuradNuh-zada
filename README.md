@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Murad Nuhzada</h1>
 
-<h3 align="center" >Front-End Developer</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Front--End%20Developer-1a1b27?style=for-the-badge" />
+</p>
 <p align="center">
   Building modern, responsive, and user-friendly web interfaces.
 </p>
