@@ -18,13 +18,14 @@
 
 <div display="flex">
   
-  <img src="https://skillicons.dev/icons?i=html" width="70" />
+<img src="https://skillicons.dev/icons?i=html" width="70" />
 <img src="https://skillicons.dev/icons?i=css" width="70" />
 <img src="https://skillicons.dev/icons?i=sass" width="70" />
 <img src="https://skillicons.dev/icons?i=bootstrap" width="70" />
-  <img src="https://skillicons.dev/icons?i=tailwind" width="70" />
+<img src="https://skillicons.dev/icons?i=tailwind" width="70" />
 <img src="https://skillicons.dev/icons?i=js" width="70" />
 <img src="https://skillicons.dev/icons?i=react" width="70" />
+<img src="https://skillicons.dev/icons?i=typescript" width="70" />
 </div>
 <p>
   <img src="https://img.shields.io/badge/Responsive_Web_Design-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
