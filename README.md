@@ -16,7 +16,7 @@
 
 ## Tech Stack
 
-<div display="flex" style="user-select: none;">
+<div display="flex">
 <img src="https://skillicons.dev/icons?i=html" width="70" />
 <img src="https://skillicons.dev/icons?i=css" width="70" />
 <img src="https://skillicons.dev/icons?i=sass" width="70" />
