@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Murad Nuhzada</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Front--End%20Developer-1a1b27?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Full--Stack%20Developer-1a1b27?style=for-the-badge" />
 </p>
 <p align="center">
   Building modern, responsive, and user-friendly web interfaces.
@@ -11,8 +11,9 @@
 
 ## About Me
 
-> Front-End Developer who enjoys building clean, responsive, and user-friendly interfaces.  
-> Passionate about modern web technologies, continuous learning, and creating simple but effective digital experiences.
+> Full-Stack Developer who enjoys building simple, clean, and useful web applications.  
+> I work on both the front-end and back-end to deliver complete projects.  
+> I am always learning and improving my development skills.
 
 ## Tech Stack
 
@@ -34,7 +35,7 @@
 </p>
 
 ## 🚀 Currently Learning & Improving
-
+> Currently expanding my backend skills and exploring new technologies.
 <table>
 <tr>
 <td align="center">
@@ -60,6 +61,7 @@ MySQL
 </tr>
 </table>
 
+
 ## Tools
 
 <div display="flex">
@@ -83,12 +85,3 @@ MySQL
   </a>
 </p>
 
-<h2 align="center">GitHub Stats</h2>
-
- ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuradNuh-zada&theme=tokyonight)
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuradNuh-zada&theme=tokyonight)
-
-![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuradNuh-zada&theme=tokyonight)
-
-![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MuradNuh-zada&theme=tokyonight)
