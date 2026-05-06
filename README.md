@@ -58,6 +58,14 @@ Laravel
 <img src="https://skillicons.dev/icons?i=mysql" width="50"/><br/>
 MySQL
 </td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nextjs" width="50"/><br/>
+Next.js
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br/>
+Node.js
+</td>
 </tr>
 </table>
 
