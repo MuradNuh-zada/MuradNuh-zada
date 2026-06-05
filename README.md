@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Murad Nuhzada</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Full--Stack%20Developer-1a1b27?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Front--end%20Developer-1a1b27?style=for-the-badge" />
 </p>
 <p align="center">
   Building modern, responsive, and user-friendly web interfaces.
@@ -11,7 +11,7 @@
 
 ## About Me
 
-> Full-Stack Developer who enjoys building simple, clean, and useful web applications.  
+> Front-end Developer who enjoys building simple, clean, and useful web applications.  
 > I work on both the front-end and back-end to deliver complete projects.  
 > I am always learning and improving my development skills.
 
