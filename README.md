@@ -39,32 +39,20 @@
 <table>
 <tr>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=cs" width="50"/><br/>
-C#
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=dotnet" width="50"/><br/>
-.NET
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=php" width="50"/><br/>
-PHP
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=laravel" width="50"/><br/>
-Laravel
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=mysql" width="50"/><br/>
-MySQL
-</td>
-<td align="center">
 <img src="https://skillicons.dev/icons?i=nextjs" width="50"/><br/>
 Next.js
 </td>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br/>
 Node.js
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=dotnet" width="50"/><br/>
+.NET
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql" width="50"/><br/>
+MySQL
 </td>
 </tr>
 </table>
